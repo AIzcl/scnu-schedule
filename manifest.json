@@ -1,0 +1,16 @@
+{
+  "name": "庄崇立的课程表",
+  "short_name": "我的课表",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1F4E79",
+  "theme_color": "#1F4E79",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
