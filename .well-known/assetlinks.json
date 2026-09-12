@@ -1,8 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "app.github.aizcl_scnu.twa",
-    "sha256_cert_fingerprints": ["PLACEHOLDER"]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.aizcl.twa",
+        "sha256_cert_fingerprints": ["A8:F1:8D:E4:FF:87:A5:60:52:77:9C:2B:61:48:64:C0:ED:75:83:05:2C:B2:CA:5C:A8:CC:92:47:A7:A9:4D:C4"]
+      }
+    }]
